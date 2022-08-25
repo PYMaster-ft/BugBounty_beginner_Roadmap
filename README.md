@@ -1,6 +1,6 @@
-<center>
-![Image description](https://telegra.ph/file/3701f618cf04a074be557.png)
-</center>
+
+![](https://telegra.ph/file/3701f618cf04a074be557.png)
+
 
 # Bug Bounty Beginner's Roadmap
 
