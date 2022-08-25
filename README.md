@@ -114,13 +114,7 @@ Hi! I'm **Chamindu Pushika**. I am currently working as a Security Engineer and 
 		 - XSSRat: https://www.youtube.com/c/TheXSSrat
 		 - Zwink: https://www.youtube.com/channel/UCDl4jpAVAezUdzsDBDDTGsQ
 		 - Live Overflow :https://www.youtube.com/c/LiveOverflow
-	 - **Hindi**
-		 - Spin The Hack: https://www.youtube.com/c/SpinTheHack
-		 - Pratik Dabhi: https://www.youtube.com/c/impratikdabhi
-
-## Join Twitter Today!
-
-World class security researchers and bug bounty hunters are on Twitter. Where are you? Join Twitter now and get daily updates on new issues, vulnerabilities, zero days, exploits, and join people sharing their methodologies, resources, notes and experiences in the cyber security world!
+	 
 
 ## PRACTICE! PRACTICE! and PRACTICE!
 
@@ -191,7 +185,7 @@ World class security researchers and bug bounty hunters are on Twitter. Where ar
 
 ### Some additional Tips
 1. **Don't do bug bounty as a full time** in the beginning (although I suggest don't do it full time at any point). There is no guarantee to get bugs every other day, there is no stability. Always keep multiple sources of income (bug bounty not being the primary).
-2. **Stay updated**, learning should never stop. Join twitter, follow good people, maintain the curiosity to learn something new every day. Read writeups, blogs and keep expanding your knowledge.
+2. **Stay updated**, learning should never stop. Join Redit, follow good people, maintain the curiosity to learn something new every day. Read writeups, blogs and keep expanding your knowledge.
 3. Always see **bug bounty as a medium to enhance your skills**. Money will come only after you have the skills. Take money as a motivation only.
 4. **Don't be dependent on automation**. You can't expect a tool to generate money for you. Automation is everywhere. The key to success in Bug Bounty is to be unique. Build your own methodology, learn from others and apply on your own. 
 5. Always try to escalate the severity of the bug, **Keep a broader mindset**. An RCE always has higher impact than arbitrary file upload.
